@@ -1,16 +1,28 @@
-## Hi there 👋
+<div align="center">
+  <h1 align="center">Hey there, I'm <span style="color: #6366f1;">Muhammad</span> 👋</h1>
+  <p align="center">
+    <strong>Full-Stack Builder & Software Enthusiast</strong>
+  </p>
+  <p align="center">
+    Crafting scalable web systems, clean backend APIs, and slick user interfaces.
+  </p>
 
-<!--
-**2023ict104/2023ict104** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <p align="center">
+    <a href="https://github.com/2023ict104">
+      <img src="https://komarev.com/ghpvc/?username=2023ict104&label=Profile%20Views&color=6366f1&style=flat-square" alt="Profile Views" />
+    </a>
+  </p>
+</div>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ✦ About Me
+
+```json
+{
+  "name": "Muhammad",
+  "role": "Full-Stack Developer",
+  "focus": ["Backend Architecture", "Clean Database Design", "Interactive UIs"],
+  "currently_building": "Management dashboards & full-stack web applications",
+  "hobbies": ["Football", "High-contrast UI animation", "Open source"]
+}
