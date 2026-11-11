@@ -1,31 +1,78 @@
-<div align="center">
 
-  <!-- Dynamic Cyber Wave Animation Header -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,4&height=220&section=header&text=Willy&fontSize=65&fontAlignY=38&animation=twinkling&desc=Full%20Stack%20Architect%20%7C%20Creative%20Developer&descSize=19&descAlignY=60&theme=tokyonight" width="100%" alt="Header Banner" />
+# 👋 Hey, I'm Muhammad!
 
-  <!-- Animated Multi-line Typing SVG -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub+Profile!;ICT+Undergraduate+%F0%9F%8E%93;Aspiring+Full-Stack+Developer+%F0%9F%92%BB;Passionate+Programmer+%F0%9F%9A%80;Code.+Learn.+Create.+Repeat.+%E2%9C%A8" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=2023ict104&label=PROFILE+VISITORS&color=00D9FF&style=for-the-badge" />
+</p>
+
+---
+
+## 🚀 About Me
+
+- 🎓 ICT Undergraduate
+- 💻 Aspiring Full-Stack Developer
+- 🌱 Currently learning PHP, JavaScript & MySQL
+- 🔭 Working on web development projects
+- 🤝 Interested in teamwork and collaboration
+- 🎯 Always exploring new technologies
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,git,github,vscode,docker&theme=dark" />
+</p>
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="./profile/stats.svg" height="180" />
+  <img src="./profile/top-langs.svg" height="180" />
+</p>
+
+---
+
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=2023ict104&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/2023ict104/2023ict104/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
   <a href="https://github.com/2023ict104">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&width=620&height=80&lines=console.log(%22Building+high-impact+web+architectures%22);;System.out.println(%22Writing+optimized+algorithms%22);;SELECT+*+FROM+ideas+WHERE+status+%3D+'shipping'%3B" alt="Typing SVG" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+</p>
 
-  <!-- Animated Floating Capsule Badges -->
-  <p align="center">
-    <img src="https://img.shields.io/badge/STATUS-SHIPPING%20CODE-0d1117?style=for-the-badge&logo=codeforces&logoColor=6366F1" alt="Status" />
-    <img src="https://img.shields.io/badge/FOCUS-BACKEND%20%26%20SYSTEMS-0d1117?style=for-the-badge&logo=target&logoColor=38bdf8" alt="Focus" />
-    <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=PROFILE%20VIEWS&color=6366f1&style=for-the-badge" alt="Views" />
-  </p>
+---
 
-</div>
+<p align="center">
+  <b>💡 Dream Big. Code Smart. Build the Future. 🚀</b>
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,3,4&height=3&section=divider" width="100%" />
+<p align="center">
+  ⭐ Thanks for visiting my profile!
+</p>
 
-### ✦ Core Systems Matrix
-
-```yaml
-identity:
-  craft: "Full-Stack Web Architect & Systems Engineer"
-  architecture: "Modular, high-throughput, sub-millisecond execution"
-  active_stack:
-    core: ["PHP 8.2", "MariaDB / MySQL", "Vanilla JS", "Java"]
-    environment: ["Apache (XAMPP)", "Git CLI", "Linux Shell"]
-  philosophy: "Clean models, resilient databases, zero UI clutter"
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00D9FF&height=120&section=footer" />
+</p>
