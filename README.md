@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=2023ict104&label=PROFILE+VISITORS&color=00D9FF&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=muhammadja07&label=PROFILE+VISITORS&color=00D9FF&style=for-the-badge" />
 </p>
 
 ---
@@ -42,7 +42,7 @@
 ## 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=2023ict104&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=muhammadja07&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -53,7 +53,7 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://github.com/2023ict104">
+  <a href="https://github.com/muhammadja07">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
